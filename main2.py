@@ -46,7 +46,7 @@ plt.plot(dateKeys,timevalues, #I added different plot and line colors to my grap
 
 plt.xticks(rotation=30)
 ax.grid(color='white') 
-plt.xlabel("Month: July ")#Titles of my Graph
+plt.xlabel("Month: July ")#Titles of my Graphs
 plt.ylabel("# of Visits")
 
 plt.show()

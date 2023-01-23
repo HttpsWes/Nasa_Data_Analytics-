@@ -19,7 +19,6 @@ try:
 except:
     print("its correct")
 
-
 print(ip_address)
 
 c = Counter(ip_address) #Counter is used to counter track the amount of ip addresses i set.
