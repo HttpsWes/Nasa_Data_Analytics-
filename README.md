@@ -9,8 +9,8 @@ The most common IP addresses are the first section of the graph that I examined.
 
 
 
-<img src="Figure_1.PNG">
 
+![Figure_1](https://user-images.githubusercontent.com/108897722/214157316-487884d3-85d2-462d-8a17-c62bc8ffc3fb.png)
 
 
 
@@ -19,9 +19,10 @@ The most common IP addresses are the first section of the graph that I examined.
 The second element I looked at was when and how many times it was searched during the entire month of July 1995, which was the most popular month because it was so close to the shuttle's launch. The data was gathered on July 13, when the comet made contact with Jupiter, and certain inferences were drawn from the investigation. The number of searches decreased and then stagnated after the next surge in the graph.
 
 
-<img src="Figure_2.PNG">
 
 
+
+![Figure_2](https://user-images.githubusercontent.com/108897722/214157366-aacab9e1-584e-44f2-8a15-9db741c37399.png)
 
 
 
