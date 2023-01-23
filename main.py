@@ -26,7 +26,7 @@ c = Counter(ip_address) #Counter is used to counter track the amount of ip addre
 newDict = dict()
 
 for key,value in c.items():
-    if value >= 900: #Value of Ip addresses that will display on my graph
+    if value >= 3000: #Value of Ip addresses that will display on my graph
         newDict[key] = value
 
 
