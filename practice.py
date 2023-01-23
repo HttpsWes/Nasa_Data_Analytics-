@@ -51,33 +51,5 @@ plt.show()
 
 
 
-ip_common = Counter(ip_address).most_common(10)
-ip_values=[]
-ip_keys=[]
 
 
-for i in ip_common:
-    ip_keys.append(i[0])
-    ip_values.append(i[1])
-
-plt.bar(ip_keys,ip_values)
-
-plt.show()
-
-
-#time_common= Counter(time).most_common(10)
-#time_value=[]
-#time_key=[]
-
-
-#For a in time_common:
-   # time_key.append(a[0])
-   # time_value.append(a[1])
-
-#plt.plot(time_key,time_value)
-#plt.xticks(rotation=90)
-
-print(c.keys())
-print(c.values())
-plt.bar (c.keys(), c.values())
-plt.show()

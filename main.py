@@ -6,6 +6,7 @@ log = open("NASA_access_log_Jul95")
 
 from collections import Counter
 
+
 ip_address = []
 time = []
 data = []
