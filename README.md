@@ -5,8 +5,7 @@ Hello Mr. Forlenza! After long days of work i have successfully anazalyed the NA
 
 ## Most Common IP Address
 
-The most common IP addresses are the first section of the graph that I examined. This would inform us of the more widespread usage of the following data log's devices or users. Among the items I discovered throughout the investigation was piweba3y.prodigy.com, which was the most common IP. The total number of queries in the following data log was 10000, which is the highest number. Prodigy.com also dominated the top 10 field, making it the most popular provider of IP addresses. We would be able to identify the sources that have used the datalog the most and utilize this information to determine the kinds of information they often used or recorded in the log.
-
+The first portion of the graph that I examined was the most common IP addresses. This would tell us how many devices or users utilize the following data log on a regular basis. During the study, I discovered the most common IP address, piweba3y.prodigy.com. The following data log had the maximum number of queries of over 10,000. Furthermore, 163.206.89.4 had the least the queries of IP addresses only averaging around 3,500 queris. This data would enable us to identify the sources that have utilized this data log the most and use it to determine what sort of information they frequently use or log in.
 
 
 ![Figure_12](https://user-images.githubusercontent.com/108897722/214159562-5789c88e-a630-462c-83e7-0dfb5346f722.png)
@@ -16,7 +15,7 @@ The most common IP addresses are the first section of the graph that I examined.
 
 ## Most Common Dates
 
-The second element I looked at was when and how many times it was searched during the entire month of July 1995, which was the most popular month because it was so close to the shuttle's launch. The data was gathered on July 13, when the comet made contact with Jupiter, and certain inferences were drawn from the investigation. The number of searches decreased and then stagnated after the next surge in the graph.
+The second section that I examined was the dates and number of searches that occurred throughout the month of July in 1995, which was the most common due to the proximity of the shuttle's launch. The data was obtained and some conclusions were drawn that on July 13 the Nasa log reached the most number of visits due to that being the day , when the commet collided with Jupiter. After the following increase in the graph, the number of searches decreased and stabilized.
 
 
 ![Figure_11](https://user-images.githubusercontent.com/108897722/214159596-91225183-7054-429c-aca3-4d80ab6a7152.png)
@@ -25,4 +24,4 @@ The second element I looked at was when and how many times it was searched durin
 
 
 ## Suggestions
-After doing an analysis to determine how to improve traffic to the target website, I came to the conclusion that We should keep track of more activities as they had a significant impact on the site. Adding to that idea would be to attempt to gather more data that could support it by creating more graphs. More detailed information about the users and the IP addresses they accessed might provide insight into how people behave across the board.
+After doing an analysis to determine how to improve traffic to the target website, I came to the conclusion that We should keep track of more activities as they had a significant impact on the site. Adding to that idea, we should also attempt to gather more data by creating more graphs. More detailed information about the users and the IP addresses they accessed might provide insight into how people behave across the board.
